@@ -10,24 +10,24 @@ using System.Windows.Forms;
 
 namespace TrackerUI
 {
-    public partial class TournamentViewerForm : Form
+    public partial class CreateTeamForm : Form
     {
-        public TournamentViewerForm()
+        public CreateTeamForm()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void tournamentNameLabel_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label1_Click_1(object sender, EventArgs e)
+        private void addTeamButton_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void groupBox1_Enter(object sender, EventArgs e)
         {
 
         }
